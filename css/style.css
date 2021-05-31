@@ -258,4 +258,37 @@ h3 { font-size: var(--fs-h3) }
   opacity: .15;
 }
 
+/* Footer */
 
+footer {
+  color:rgb(38, 146, 171);
+  text-align: center;
+  padding: 2.5em 0;
+}
+
+footer a { 
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer__link {
+  font-size: var(--fs-h3);
+  font-weight: var(--fw-bold);
+}
+
+.footer__link:hover,
+.social-list__link:hover {
+  opacity: .5;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+}
+
+.social-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 2em 0 0;
+  padding: 0;
+}
