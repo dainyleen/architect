@@ -1,3 +1,3 @@
 # makapi's portfolio
 
-To view: 
+To view: https://dainyleen.github.io/architect
