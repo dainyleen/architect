@@ -1,6 +1,6 @@
 # Architect
 
-check it out: https://dainyleen.github.io/architect
+https://dainyleen.github.io/architect
 
 
 
